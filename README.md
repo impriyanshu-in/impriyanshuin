@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @impriyanshuin
+- 👋 Hi, I’m @impriyanshu-in
 - 👀 I’m interested in coding/dev
 - 🌱 I’m currently persuing btech. from IIIT
 - 💞️ I’m looking to collaborate on ...
